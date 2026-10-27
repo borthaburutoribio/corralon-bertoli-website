@@ -1,0 +1,5 @@
+# Muestra en revisión: no indexar todavía
+User-agent: *
+Disallow: /
+
+Sitemap: https://borthaburutoribio.github.io/corralon-bertoli-website/sitemap.xml
